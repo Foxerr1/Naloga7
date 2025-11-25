@@ -1,3 +1,4 @@
 # Zgodovina sprememb
 - Dodan changelog.md
-- Dodan index.htnl
+- Dodan index.html s strani osebe B
+- Dodan kontakti.html s strani osebe B
